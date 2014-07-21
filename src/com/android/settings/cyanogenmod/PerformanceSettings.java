@@ -44,7 +44,7 @@ public class PerformanceSettings extends SettingsPreferenceFragment
     private static final String USE_DITHERING_PERSIST_PROP = "persist.sys.use_dithering";
     private static final String USE_DITHERING_DEFAULT = "1";
     private static final String USE_16BPP_ALPHA_PREF = "pref_use_16bpp_alpha";
-    private static final String USE_16BPP_ALPHA_PROP = "persist.sys.use_16bpp_alpha";
+    private static final String USE_16BPP_ALPHA_PROP = "persist.sys.prefer_16bpp";
     private static final String HW_SETTINGS_KEY = "hwa_settings";
 
     private ListPreference mUseDitheringPref;
